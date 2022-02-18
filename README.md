@@ -1,7 +1,7 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/aditya1036?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/aditya1036?style=social"> &nbsp;&nbsp; <img alt="TienHuynh-TN | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/bsairohit?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bsairohit?style=social"> &nbsp;&nbsp; <img alt="TienHuynh-TN | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Aditya+Khandelwal+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Balivada+Sai+Rohit+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 
@@ -22,8 +22,8 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1036&layout=compact&show_icon=true&theme=algolia" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=aditya1036&layout=compact&show_icon=true&theme=algolia"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsairohit&layout=compact&show_icon=true&theme=algolia" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=bsairohit&layout=compact&show_icon=true&theme=algolia"/>
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=bsairohit&theme=algolia&background=0d1117&hide_border=true" />
