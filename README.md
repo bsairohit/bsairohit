@@ -6,7 +6,7 @@
 </div>
 
 
-## <img src="https://cdn.dribbble.com/users/795597/screenshots/2285594/media/91a049d1182249aeb0eed1e162f7f6ec.gif" width="50px"></img>  About Me
+## <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="50px"></img>  About Me
 
 - :credit_card: My full name is BALIVADA SAI ROHIT <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="400" align="right"/>
 - :school: I'm currently 3rd year student at  University
