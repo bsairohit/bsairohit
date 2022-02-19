@@ -27,7 +27,7 @@
 <a href="https://nimble-project.netlify.app/home/one">Ecommerce Website</a><br>
 <a href="https://sportsrohit.herokuapp.com/">Fitness Coaching</a><br>
   </div>
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
+<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsairohit&layout=compact&show_icon=true&theme=algolia" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=bsairohit&layout=compact&show_icon=true&theme=algolia"/>
@@ -36,7 +36,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=bsairohit&theme=algolia&background=0d1117&hide_border=true" />
   <img src="https://activity-graph.herokuapp.com/graph?username=bsairohit&theme=react-dark"/>
 </div>
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="mailto:bsairohit20@gmail.com" >
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
