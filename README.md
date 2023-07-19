@@ -9,7 +9,7 @@
 ## <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="50px"></img>  About Me
 
 - :credit_card: My full name is BALIVADA SAI ROHIT <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px" align="right"/>
-- :school: I'm currently 3rd year student at  University
+- :school: Recent graduate from KL University
 - :books: My major is Software Engineering
 - :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focusins on learning Web Development.
 - :monocle_face: I'm interested in coding,playing badminton, sleeping, and watching films.
