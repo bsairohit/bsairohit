@@ -11,7 +11,7 @@
 - :credit_card: My full name is BALIVADA SAI ROHIT <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px" align="right"/>
 - :school: Recent graduate from KL University
 - :books: My major is Software Engineering
-- :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focusins on learning Web Development.
+- :sweat_smile: I am a developer in a MNC.
 - :monocle_face: I'm interested in coding,playing badminton, sleeping, and watching films.
 - :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"***
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
