@@ -9,17 +9,17 @@
 ## <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="50px"></img>  About Me
 
 - :credit_card: My full name is BALIVADA SAI ROHIT <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px" align="right"/>
-- :school: Recent graduate from KL University
-- :books: My major is Software Engineering
-- :sweat_smile: I am a developer in a MNC.
-- :monocle_face: I'm interested in coding,playing badminton, sleeping, and watching films.
+- :school: MSc Advanced Computer Science with Business student at the University of Exeter
+- :books: My focus is Software Engineering, Enterprise AI, and Tech Business Strategy
+- :sweat_smile: Former software developer at TCS, now scaling up my expertise in the UK.
+- :monocle_face: I'm interested in coding, playing competitive badminton, sleeping, and watching films.
 - :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"***
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=white) ![Django](https://img.shields.io/badge/django-1B6AC6.svg?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-%CC2927.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=white) ![Django](https://img.shields.io/badge/django-1B6AC6.svg?style=for-the-badge&logo=django&logoColor=white)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-%CC2927.svg?style=for-the-badge&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px">Some Projects
  <div align="centre">
   <a href="https://video-call-meta.web.app/">Video Conferencing Application</a><br>
@@ -43,7 +43,7 @@
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
  
-  <a href="www.linkedin.com/in/balivadasairohit" target="_blank">
+  <a href="https://www.linkedin.com/in/balivadasairohit" target="_blank">
     <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
  
