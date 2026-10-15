@@ -22,11 +22,15 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px">Some Projects
  <div align="centre">
+   <a href="https://cryptocondria.com/">Dark Web Monitor</a><br>
+   <a href="https://sonigold.co.in/"> Jewellery Shoping </a><br>
   <a href="https://video-call-meta.web.app/">Video Conferencing Application</a><br>
   <a href="https://right-events.herokuapp.com/">Event Management System</a><br> 
 <a href="https://nimble-project.netlify.app/home/one">Ecommerce Website</a><br>
 <a href="https://sportsrohit.herokuapp.com/">Fitness Coaching</a><br>
+   
   <a href="https://bsairohit.netlify.app/">Portfolio (Not Updated)</a> 
+   
   </div>
 <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
