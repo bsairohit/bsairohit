@@ -23,7 +23,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px">Some Projects
  <div align="centre">
    <a href="https://cryptocondria.com/">Dark Web Monitor</a><br>
-   <a href="https://sonigold.co.in/"> Jewellery Shoping </a><br>
+   <a href="https://sonigold.co.in/"> Jewellery Shopping </a><br>
   <a href="https://video-call-meta.web.app/">Video Conferencing Application</a><br>
   <a href="https://right-events.herokuapp.com/">Event Management System</a><br> 
 <a href="https://nimble-project.netlify.app/home/one">Ecommerce Website</a><br>
