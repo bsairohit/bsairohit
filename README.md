@@ -25,9 +25,10 @@
    <a href="https://cryptocondria.com/">Dark Web Monitor</a><br>
    <a href="https://sonigold.co.in/"> Jewellery Shopping </a><br>
   <a href="https://video-call-meta.web.app/">Video Conferencing Application</a><br>
-  <a href="https://right-events.herokuapp.com/">Event Management System</a><br> 
-<a href="https://nimble-project.netlify.app/home/one">Ecommerce Website</a><br>
-<a href="https://sportsrohit.herokuapp.com/">Fitness Coaching</a><br>
+   <a href="https://nimble-project.netlify.app/home/one">Ecommerce Website</a><br>
+
+  <!-- <a href="https://right-events.herokuapp.com/">Event Management System</a><br> 
+<!-- <a href="https://sportsrohit.herokuapp.com/">Fitness Coaching</a><br>
    
   <a href="https://bsairohit.netlify.app/">Portfolio (Not Updated)</a> 
    
